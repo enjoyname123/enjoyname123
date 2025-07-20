@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/user-attachments/assets/64380716-228e-4a70-b272-78c9f89deb14" width="30px">, I'm Sathya Sai<img src="https://github.com/user-attachments/assets/e5332fcd-0795-42d4-95d6-9e368600cbcc" width="40px">!</h1>
 
-Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/f8b1b87c-db91-4e99-87dd-16968ca8bed6" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/f8b1b87c-db91-4e99-87dd-16968ca8bed6" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
 <br> <br>
 
 <h1 align="center">
@@ -18,7 +18,6 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a second year AI & ML student at Gov
 <br>💡 Let’s connect, collaborate, and create something amazing together!
 
 
-
 📫 Reach out to me: [ysathyasai.dev](mailto:ysathyasai.dev@gmail.com)
 ``` css
 ysathyasai.dev@gmail.com
@@ -29,6 +28,7 @@ ysathyasai.dev@gmail.com
 <div align = center>
 <a href="https://ysathyasai.medium.com/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/22d47189-3b98-4d9d-a6e3-da528515b67a" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://linkedin.com/in/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
+<a href="https://www.behance.net/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ad4c6451-ae53-4055-9e4b-7117861a512f" alt="ysathyasai" height="35" width="40" /></a>
 <a href="https://kaggle.com/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ysathyasai" height="30" width="40" /></a>
 <a href="https://x.com/ysathyasai" target="blank"><img align="center" src="https://github.com/user-attachments/assets/87a29fb0-05a4-466a-a7f7-0e1b0b0583b5" alt="ysathyasai" height="35" width="35" /></a>
 <a href="https://instagram.com/ysathyasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysathyasai" height="30" width="40" /></a>
